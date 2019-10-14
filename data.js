@@ -13,6 +13,7 @@ let points = [];
 //     circle,
 //     koef
 // }
+let colors = [];
 
 let target = {
     x: width / 2,
